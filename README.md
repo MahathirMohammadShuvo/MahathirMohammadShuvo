@@ -1,7 +1,8 @@
 ## Mahathir Mohammad
 
-Full-stack developer in Bangladesh. Backend and full-stack work since 2020 —
-NestJS, Flask, Node, React, React Native and Flutter, on AWS and GCP.
+Full-stack engineer in Bangladesh. Backend and full-stack work since 2020, across
+web, mobile and desktop — TypeScript and NestJS, Go, Elixir/Phoenix, Python, React,
+React Native and Flutter, on AWS and GCP.
 
 ---
 
@@ -36,6 +37,13 @@ reconciliation, rider dispatch for deliveries, a referral and reward-balance
 engine, a recommendation engine built on order history, retrieval-augmented
 product search, and self-hosted real-user monitoring with web vitals.
 
+**AI Employees** — self-hosted multi-agent platform. AI agents are arranged as a
+company (CEO → departments → employees) and collaborate over the Model Context
+Protocol, with Markdown files as the cross-tree channel. NestJS and Prisma on
+PostgreSQL, LangGraph orchestration with a Postgres checkpointer, Redis-backed
+Socket.io, and a React front end with a Monaco editor and a node-graph view for
+watching agents work and chatting with them directly.
+
 **Daanika** — real-time multiplayer board-game platform. Flutter mobile client
 (11 games — chess, carrom, ludo, pool, rummy and others) on an Elixir/Phoenix
 backend with PostgreSQL. Matchmaking, tournaments and live spectating over
@@ -53,11 +61,13 @@ app on mediasoup WebRTC, and a React Native scheduling app.
 
 ### Stack
 
-**Languages** TypeScript · JavaScript · Python · Dart · PHP · SQL
-**Backend** NestJS · Node · Flask · Elixir/Phoenix · Prisma · PostgreSQL · MySQL · MongoDB
+**Languages** TypeScript · JavaScript · Python · Go · Elixir · Dart · PHP · SQL
+**Backend** NestJS · Node · Express · Fastify · Flask · Phoenix · Prisma · PostgreSQL · MySQL · MongoDB · Redis
 **Frontend** React · TanStack · Radix UI · Tailwind · Vite
-**Mobile** React Native (Expo) · Flutter
-**Infrastructure** AWS · GCP · Docker · nginx · Elasticsearch · Codemagic
+**Mobile & desktop** React Native (Expo) · Flutter · Electron
+**AI** Model Context Protocol · LangGraph · Anthropic SDK · retrieval-augmented search
+**Distributed & cryptography** Go services on LevelDB · Ed25519 · X.509 · WebCrypto
+**Infrastructure** AWS · GCP · Docker · nginx · Elasticsearch · Codemagic · Playwright
 
 ---
 
