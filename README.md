@@ -1,6 +1,6 @@
 ## Mahathir Mohammad
 
-Full-stack developer in Bangladesh. Backend and full-stack work since 2021 —
+Full-stack developer in Bangladesh. Backend and full-stack work since 2020 —
 NestJS, Flask, Node, React, React Native and Flutter, on AWS and GCP.
 
 ---
@@ -42,9 +42,6 @@ backend with PostgreSQL. Matchmaking, tournaments and live spectating over
 Phoenix channels; WebRTC camera streaming between opponents mid-match; JWT held
 in Android Keystore / iOS Keychain. Native end-to-end tests with Patrol,
 including a two-player play-to-completion suite. Not publicly deployed.
-
-**[Spice](http://dummy-spice.netlify.app)** — React storefront demo. 14 pages,
-TypeScript, Framer Motion, Zustand, a data-structure-backed product filter.
 
 **Earlier** — as sole backend developer on a series of Flask products: a
 large-file transfer service handling transfers up to 40 GB, a cloud storage
