@@ -8,13 +8,13 @@ NestJS, Flask, Node, React, React Native and Flutter, on AWS and GCP.
 ### Open source
 
 <!-- OSS:START -->
-**1 merged** contribution across 1 project.
+**2 merged** contributions across 1 project.
 
 | Project | Stars | Contribution | Status |
 | --- | --- | --- | --- |
 | [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix date text field formatting emitting invalid JavaScript](https://github.com/foliojs/pdfkit/pull/1768) | **Merged** |
+| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix indentAllLines applying the indent more than once](https://github.com/foliojs/pdfkit/pull/1767) | **Merged** |
 | [radix-ui/primitives](https://github.com/radix-ui/primitives) | 19.2k | [fix(dismissable-layer): dismiss on one outside click after content stops propagation](https://github.com/radix-ui/primitives/pull/4122) | Open |
-| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix indentAllLines applying the indent more than once](https://github.com/foliojs/pdfkit/pull/1767) | Open |
 <!-- OSS:END -->
 
 ---
