@@ -1,3 +1,5 @@
+![Mahathir Mohammad Shuvo - Full-Stack Software Engineer](banner.png)
+
 ## Mahathir Mohammad
 
 Full-stack engineer in Bangladesh. Backend and full-stack work since 2020, across
