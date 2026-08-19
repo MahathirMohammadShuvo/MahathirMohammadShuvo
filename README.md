@@ -61,13 +61,13 @@ app on mediasoup WebRTC, and a React Native scheduling app.
 
 **Dummy Spice** — a self-built demo, not client work. Most of what I build is
 under NDA and cannot be shown, so this exists to demonstrate the interaction and
-animation side directly: 14 pages in React and TypeScript, Framer Motion page
-transitions and product-card open/close, a data-structure-backed product filter,
-deployed on Netlify.
+animation side directly: React and TypeScript with Framer Motion page transitions
+and product-card open/close, tuned so the mobile experience reads as a native app
+rather than a web page.
 
-![Dummy Spice - animated React demo](spice-demo.gif)
+<img src="spice-mobile.gif" alt="Dummy Spice - animated React demo on mobile" width="300">
 
-[Full clip](spice-demo.mp4) · [Live site](https://dummy-spice.netlify.app)
+[Full clip](spice-mobile.mp4) · [Live site](https://dummy-spice.netlify.app)
 
 ---
 
