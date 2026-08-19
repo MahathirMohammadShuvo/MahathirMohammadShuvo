@@ -59,6 +59,16 @@ product with shared folders and per-member permissions, and a centralised log
 management system built on Elasticsearch. Also a Zoom-style video conferencing
 app on mediasoup WebRTC, and a React Native scheduling app.
 
+**Dummy Spice** — a self-built demo, not client work. Most of what I build is
+under NDA and cannot be shown, so this exists to demonstrate the interaction and
+animation side directly: 14 pages in React and TypeScript, Framer Motion page
+transitions and product-card open/close, a data-structure-backed product filter,
+deployed on Netlify.
+
+![Dummy Spice - animated React demo](spice-demo.gif)
+
+[Full clip](spice-demo.mp4) · [Live site](https://dummy-spice.netlify.app)
+
 ---
 
 ### Stack
