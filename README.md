@@ -6,6 +6,8 @@ Full-stack engineer in Bangladesh. Backend and full-stack work since 2020, acros
 web, mobile and desktop — TypeScript and NestJS, Go, Elixir/Phoenix, Python, React,
 React Native and Flutter, on AWS and GCP.
 
+**[Download my CV (PDF)](Mahathir_Mohammad_Shuvo_CV.pdf)**
+
 ---
 
 ### Open source
