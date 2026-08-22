@@ -3,8 +3,8 @@
 ## Mahathir Mohammad
 
 Full-stack engineer in Bangladesh. Backend and full-stack work since 2020, across
-web, mobile and desktop — TypeScript and NestJS, Go, Elixir/Phoenix, Python, React,
-React Native and Flutter, on AWS and GCP.
+web, mobile and desktop — TypeScript and NestJS, Python and Flask, JavaScript,
+Java and C++, React, React Native and Electron, on AWS and GCP.
 
 **[Download my CV (PDF)](Mahathir_Mohammad_Shuvo_CV.pdf)**
 
@@ -13,22 +13,24 @@ React Native and Flutter, on AWS and GCP.
 ### Open source
 
 <!-- OSS:START -->
-**4 merged** contributions across 1 project.
+**7 merged** contributions across 2 projects.
 
 | Project | Stars | Contribution | Status |
 | --- | --- | --- | --- |
+| [honojs/hono](https://github.com/honojs/hono) | 31.8k | [fix(client): skip an undefined entry inside a query array](https://github.com/honojs/hono/pull/5272) | **Merged** |
+| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Throw from addNamedEmbeddedFile when no ref is given](https://github.com/foliojs/pdfkit/pull/1772) | **Merged** |
+| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix a hole in a sparse array being skipped when serialising](https://github.com/foliojs/pdfkit/pull/1771) | **Merged** |
 | [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix table cell font src inheriting an unrelated font family](https://github.com/foliojs/pdfkit/pull/1770) | **Merged** |
-| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix undefined option values serialising as the literal token undefined](https://github.com/foliojs/pdfkit/pull/1769) | **Merged** |
-| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix date text field formatting emitting invalid JavaScript](https://github.com/foliojs/pdfkit/pull/1768) | **Merged** |
 | [radix-ui/primitives](https://github.com/radix-ui/primitives) | 19.2k | [fix(dismissable-layer): dismiss on one outside click after content stops propagation](https://github.com/radix-ui/primitives/pull/4122) | Open |
 
 <details>
-<summary>Show 2 more</summary>
+<summary>Show 3 more</summary>
 
 | Project | Stars | Contribution | Status |
 | --- | --- | --- | --- |
+| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix undefined option values serialising as the literal token undefined](https://github.com/foliojs/pdfkit/pull/1769) | **Merged** |
+| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix date text field formatting emitting invalid JavaScript](https://github.com/foliojs/pdfkit/pull/1768) | **Merged** |
 | [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix indentAllLines applying the indent more than once](https://github.com/foliojs/pdfkit/pull/1767) | **Merged** |
-| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix undefined skipping a sparse array entry and reaching name trees as a literal token](https://github.com/foliojs/pdfkit/pull/1771) | Open |
 
 </details>
 <!-- OSS:END -->
@@ -59,13 +61,6 @@ PostgreSQL, LangGraph orchestration with a Postgres checkpointer, Redis-backed
 Socket.io, and a React front end with a Monaco editor and a node-graph view for
 watching agents work and chatting with them directly.
 
-**Daanika** — real-time multiplayer board-game platform. Flutter mobile client
-(11 games — chess, carrom, ludo, pool, rummy and others) on an Elixir/Phoenix
-backend with PostgreSQL. Matchmaking, tournaments and live spectating over
-Phoenix channels; WebRTC camera streaming between opponents mid-match; JWT held
-in Android Keystore / iOS Keychain. Native end-to-end tests with Patrol,
-including a two-player play-to-completion suite. Not publicly deployed.
-
 **Earlier** — as sole backend developer on a series of Flask products: a
 large-file transfer service handling transfers up to 40 GB, a cloud storage
 product with shared folders and per-member permissions, and a centralised log
@@ -86,13 +81,12 @@ rather than a web page.
 
 ### Stack
 
-**Languages** TypeScript · JavaScript · Python · Go · Elixir · Dart · PHP · SQL
-**Backend** NestJS · Node · Express · Fastify · Flask · Phoenix · Prisma · PostgreSQL · MySQL · MongoDB · Redis
-**Frontend** React · TanStack · Radix UI · Tailwind · Vite
-**Mobile & desktop** React Native (Expo) · Flutter · Electron
-**AI** Model Context Protocol · LangGraph · Anthropic SDK · retrieval-augmented search
-**Distributed & cryptography** Go services on LevelDB · Ed25519 · X.509 · WebCrypto
-**Infrastructure** AWS · GCP · Docker · nginx · Elasticsearch · Codemagic · Playwright
+**Languages** Python · TypeScript · JavaScript · Java · C++
+**Backend** NestJS · Node · Express · Flask · Django · Prisma · PostgreSQL · MySQL · MongoDB · Redis · WebSockets · Socket.IO
+**Frontend** React · TanStack · Radix UI · Tailwind · Vite · jQuery
+**Mobile & desktop** React Native (Expo) · Electron
+**AI** Model Context Protocol · LangGraph · Anthropic and OpenAI APIs · retrieval-augmented search · Hugging Face Transformers · TensorFlow.js
+**Infrastructure** AWS · GCP · Docker · GitHub Actions · nginx · Elasticsearch · Playwright · git (bisect, blame, worktrees)
 
 ---
 
