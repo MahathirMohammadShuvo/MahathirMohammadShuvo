@@ -17,20 +17,22 @@ Java and C++, React, React Native and Electron, on AWS and GCP.
 
 | Project | Stars | Contribution | Status |
 | --- | --- | --- | --- |
-| [honojs/hono](https://github.com/honojs/hono) | 31.8k | [fix(client): skip an undefined entry inside a query array](https://github.com/honojs/hono/pull/5272) | **Merged** |
+| [honojs/hono](https://github.com/honojs/hono) | 32.0k | [fix(client): skip an undefined entry inside a query array](https://github.com/honojs/hono/pull/5272) | **Merged** |
 | [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Throw from addNamedEmbeddedFile when no ref is given](https://github.com/foliojs/pdfkit/pull/1772) | **Merged** |
 | [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix a hole in a sparse array being skipped when serialising](https://github.com/foliojs/pdfkit/pull/1771) | **Merged** |
 | [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix table cell font src inheriting an unrelated font family](https://github.com/foliojs/pdfkit/pull/1770) | **Merged** |
 | [radix-ui/primitives](https://github.com/radix-ui/primitives) | 19.2k | [fix(dismissable-layer): dismiss on one outside click after content stops propagation](https://github.com/radix-ui/primitives/pull/4122) | Open |
+| [superplanehq/superplane](https://github.com/superplanehq/superplane) | 5.5k | [fix: reject non-finite durations in the duration formatters](https://github.com/superplanehq/superplane/pull/6883) | Open |
 
 <details>
-<summary>Show 3 more</summary>
+<summary>Show 4 more</summary>
 
 | Project | Stars | Contribution | Status |
 | --- | --- | --- | --- |
 | [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix undefined option values serialising as the literal token undefined](https://github.com/foliojs/pdfkit/pull/1769) | **Merged** |
 | [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix date text field formatting emitting invalid JavaScript](https://github.com/foliojs/pdfkit/pull/1768) | **Merged** |
 | [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix indentAllLines applying the indent more than once](https://github.com/foliojs/pdfkit/pull/1767) | **Merged** |
+| [foliojs/pdfkit](https://github.com/foliojs/pdfkit) | 10.7k | [Fix doc.file() throwing when the same in-memory attachment is added twice](https://github.com/foliojs/pdfkit/pull/1781) | Open |
 
 </details>
 <!-- OSS:END -->
